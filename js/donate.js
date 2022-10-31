@@ -1,0 +1,1 @@
+module.exports={donate:{donateImg:["/aurora/wxpay.png","/aurora/zfbpay.jpg"],articlePage:!0,aboutPage:!0,donateProduct:[{name:"奶茶",img:"/aurora/nc.jpeg",price:18,prefix:"$"},{name:"全味奶茶",img:"/aurora/image-20210911233612031.png?",price:11,prefix:"￥"}],donateList:[{name:"初尘",msg:"主题太棒了",img:"/aurora/nc.jpeg",price:7,prefix:"￥"}]}};
