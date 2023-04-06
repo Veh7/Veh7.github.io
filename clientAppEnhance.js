@@ -1,0 +1,1 @@
+import{defineClientAppEnhance}from"@vuepress/client";export default defineClientAppEnhance((({app:e,router:n,siteData:p})=>{}));
