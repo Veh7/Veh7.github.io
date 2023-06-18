@@ -1,1 +1,1 @@
-module.exports={friendLinks:[{title:"我的朋友",links:[{title:"Aurora",url:"https://aurora.xcye.xyz",logo:"/avatar.jpg",describe:"人生若只是初见,何事秋风悲画扇",cover:"/friendimg/myself.png"}]},{title:"大佬",links:[{title:"Aurora",url:"https://aurora.xcye.xyz",logo:"/avatar.jpg",describe:"人生若只是初见,何事秋风悲画扇",cover:"/friendimg/myself.png"}]},{title:"小伙伴",links:[{title:"Aurora",url:"https://aurora.xcye.xyz",logo:"/avatar.jpg",describe:"人生若只是初见,何事秋风悲画扇",cover:"/friendimg/myself.png"}]}]};
+module.exports={friendLinks:[]};

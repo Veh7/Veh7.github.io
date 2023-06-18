@@ -1,1 +1,1 @@
-module.exports={message:['该博客主题为Aurora,<a href="https://github.com/qsyyke/vuepress-theme-aurora">vuepress-theme-Aurora</a>',"主题交流群: 681602026，欢迎各位大佬进群交流"]};
+module.exports={message:["我想，记住这个世界的一些事情和我对她的思考。就写在这里吧"]};
